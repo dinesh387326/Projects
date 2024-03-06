@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "477435539825",
+    "project_id": "quizly-f3997",
+    "storage_bucket": "quizly-f3997.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477435539825:android:29c6ea95a1dd8ecba546d0",
+        "android_client_info": {
+          "package_name": "com.myapps.quizly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg43mj9qbgHXKCF_c4d6UuNT_M5hJ9dQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
