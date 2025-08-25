@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.TheNewsApp" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:colorPrimary">@color/purple</item>
+        <item name="android:statusBarColor">@color/purple</item>
+    </style>
+
+    <style name="App.Custom.Indicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/yellow</item>
+    </style>
+
+</resources>

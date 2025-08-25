@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "855161347034",
+    "firebase_url": "https://tasty-eats-13ab3-default-rtdb.firebaseio.com",
+    "project_id": "tasty-eats-13ab3",
+    "storage_bucket": "tasty-eats-13ab3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855161347034:android:c60f1300a3091fd808fee3",
+        "android_client_info": {
+          "package_name": "com.myapps.tasty_eats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5gZjc0dUUvd7A1N-P8MSSC63N1QDDqpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855161347034:android:a88033fd3fb7909408fee3",
+        "android_client_info": {
+          "package_name": "com.myapps.tasty_eats_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5gZjc0dUUvd7A1N-P8MSSC63N1QDDqpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
